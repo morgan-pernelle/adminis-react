@@ -2,7 +2,7 @@
 
 This project is a complete Admin Dashboard app built user ReactJS & Material UI. Since it is an admin page meant to run on a desktop or laptop, it is not responsive.
 
-You can visit the app [here](). 
+You can visit the app [here](https://adminis-react.vercel.app/). 
 
 In the project directory, you can run:
 
